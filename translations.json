@@ -1,0 +1,51 @@
+{
+  "en": {
+    "start": "Hello, I am Telegram Bot! Please choose your language to get started.",
+    "help": "Here are the commands you can use:\n/start - Start the bot\n/help - Show this help message",
+    "language_selected": "Language set to {language}."
+  },
+  "de": {
+    "start": "Schlagzeilen\n/details <Nummer> - Mehr Informationen zu einer bestimmten Schlagzeile\n/help - Zeige diese Hilfemeldung an",
+    "help": "Hier sind die Befehle, die du verwenden kannst:\n/start - Starte den Bot\n/help - Zeige diese Hilfemeldung an",
+    "language_selected": "Sprache auf {language} gesetzt."
+  },
+  "pl": {
+    "start": "Cześć, jestem Botem Telegram! Wybierz swój język, aby rozpocząć.",
+    "help": "Oto polecenia, których możesz użyć:\n/start - Uruchom bota\n/help - Pokaż tę wiadomość pomocy",
+    "language_selected": "Język ustawiony na {language}."
+  },
+  "fr": {
+    "start": "Bonjour, je suis le Bot Telegram ! Veuillez choisir votre langue pour commencer.",
+    "help": "Voici les commandes que vous pouvez utiliser :\n/start - Démarrer le bot\n/help - Afficher ce message d'aide",
+    "language_selected": "Langue définie sur {language}."
+  },
+  "es": {
+    "start": "Hola, soy el Bot de Telegram! Por favor, elige tu idioma para comenzar.",
+    "help": "Aquí están los comandos que puedes usar:\n/start - Iniciar el bot\n/help - Mostrar este mensaje de ayuda",
+    "language_selected": "Idioma establecido en {language}."
+  },
+  "uk": {
+    "start": "Привіт, я Телеграм Бот! Будь ласка, оберіть свою мову для початку.",
+    "help": "Ось команди, які ви можете використовувати:\n/start - Запустити бота\n/help - Показати це повідомлення довідки",
+    "language_selected": "Встановлена {language} мова."
+  },
+  "it": {
+    "start": "Ciao, sono il Bot di Telegram! Per favore, scegli la tua lingua per iniziare.",
+    "help": "Ecco i comandi che puoi usare:\n/start - Avvia il bot\n/help - Mostra questo messaggio di aiuto",
+    "language_selected": "Lingua impostata su {language}."
+  },
+  "zh": {
+    "start": "你好，我是 Telegram 机器人！请选择你的语言以开始。",
+    "help": "这是你可以使用的命令：\n/start - 启动机器人\n/help - 显示此帮助信息",
+    "language_selected": "语言设置为 {language}。"
+  },
+  "ja": {
+    "start": "こんにちは、私はTelegramボットです！開始するには言語を選択してください。",
+    "help": "使用できるコマンドは次のとおりです：\n/start - ボットを開始\n/help - このヘルプメッセージを表示",
+    "language_selected": "{language}に設定されました。"
+  },
+  "ko": {
+    "start": "안녕하세요, 저는 텔레그램 봇입니다! 시작하려면 언어를 선택하세요.",
+    "help": "사용할 수 있는 명령어는 다음과 같습니다:\n/start - 봇 시작\n/help - 이 도움말 메시지 표시",
+    "language_selected": "{language}로 설정되었습니다."
+  }}
